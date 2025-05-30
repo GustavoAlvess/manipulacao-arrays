@@ -12,7 +12,7 @@ let mensagens = [
 
   console.log(mensagens);
   
-  mensagens.unshift() // removendo a imagem indevida
+  mensagens.unshift() // removendo a mensagem indevida
   
   console.log('Lista atualizada');
   console.log(mensagens);
