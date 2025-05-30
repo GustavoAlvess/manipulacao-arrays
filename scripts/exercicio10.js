@@ -10,7 +10,7 @@ let estoque = [
     "mouse sem fio"
   ];
 
-
+// procurando com includes
 if (estoque.includes("cadeira gamer")) {
     console.log("Sim, a cadeira gamer está disponível");
     
