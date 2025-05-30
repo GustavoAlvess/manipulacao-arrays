@@ -13,6 +13,6 @@ let gradeCurricular = [
 ];
 
 // substituindo com ,splice()
-let novaGradeCurricular = gradeCurricular.splice(2,3, "Programação", "Robótica") // fazendo a troca
+let novaGradeCurricular = gradeCurricular.splice(2,3, "Programação", "Robótica") // fazendo a troca das grades
 
 console.log("Nova grade curricular:" , novaGradeCurricular);
