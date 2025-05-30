@@ -16,6 +16,6 @@ let usuariosSistemaB = [
   "marcelo.cardoso"
 ];
 
-let usuariosAeB = usuariosSistemaA.concat(usuariosSistemaB)
+let usuariosAeB = usuariosSistemaA.concat(usuariosSistemaB) // juntando as duas listas em uma nova
 
 console.log("Usuários combinados:\n" , usuariosAeB);
